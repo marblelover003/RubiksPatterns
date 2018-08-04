@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Nova+Round);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+@import url(https://fonts.googleapis.com/css?family=Orbitron);
+body {
+  font-family: Ubuntu;
+  font-size: 30px; }
+h1 {
+  font-family: Orbitron;
+  font-size: 150px; }
+h2 {
+  font-family: Nova Round;
+  font-size: 90px; }
